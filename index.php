@@ -1,5 +1,3 @@
-<?php
-?>
 
 <link rel="stylesheet" href="stylesheet.css" type="text/css">
 <link rel="stylesheet" href="flix.css" media="screen">
@@ -208,6 +206,3 @@
 </footer>
 </body>
 </html>
-
-<?php
-?>
